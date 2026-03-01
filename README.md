@@ -3,10 +3,12 @@
 A modern, responsive landing page developed during my Java Full Stack Internship at **Maincrafts Technology**. This project demonstrates a functional "Contact Us" feature using Spring Boot and Thymeleaf.
 
 ## 🚀 Features
-- **Responsive UI:** Clean, modern design using CSS Flexbox and gradients.
-- **Form Handling:** Backend processing of user inquiries via Spring MVC.
-- **Success Notifications:** Uses `RedirectAttributes` to notify users after a successful submission.
-- **Logging:** Server-side console logging for form data verification.
+- **Modern responsive UI with clean CSS styling**
+- **Spring Boot backend with MVC architecture**
+- **Form submission handling using @PostMapping**
+- **Server-side request parameter processing**
+- **Console-based logging of user submissions**
+- **Clean project structure using Maven**
 
 ## 🛠️ Tech Stack
 - **Backend:** Java 21, Spring Boot 4.0.3
@@ -23,3 +25,9 @@ A modern, responsive landing page developed during my Java Full Stack Internship
    `mvn spring-boot:run`
 4. Open your browser and go to:
    `http://localhost:8080`
+
+## Learning Outcomes
+- Understanding Spring MVC workflow
+- Handling HTTP GET and POST requests
+- Integrating frontend forms with backend logic
+- Implementing redirect flow after form submission
