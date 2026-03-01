@@ -14,7 +14,6 @@ A modern, responsive landing page developed during my Java Full Stack Internship
 - **Backend:** Java 21, Spring Boot 4.0.3
 - **Frontend:** HTML5, CSS3, Thymeleaf
 - **Build Tool:** Maven
-- **IDE:** Antigravity / VS Code
 
 ## 🏁 How to Run
 1. Clone the repository:
