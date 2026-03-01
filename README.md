@@ -17,7 +17,7 @@ A modern, responsive landing page developed during my Java Full Stack Internship
 
 ## 🏁 How to Run
 1. Clone the repository:
-   `git clone <your-repo-link>`
+   `git clone https://github.com/garry-18/Modern-Contact-Form-Web-App-Spring-Boot-Thymeleaf.git`
 2. Navigate to the project folder:
    `cd landingpage`
 3. Run the application:
